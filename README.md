@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**muhammad3245/muhammad3245** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My names Muhammad!
 
-Here are some ideas to get you started:
+#### My Socials 🔗
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/570417753253740545)
+[![Discord Nitro](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/free-boost)
+[![Twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RealMuhammadYT)
+---
+
+
+#### About me
+https://muhammadh.carrd.co
